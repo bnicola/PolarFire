@@ -1,0 +1,42 @@
+pwd
+# C:/Scheduler
+ls
+# Scheduler.cr.mti  scheduler.do  transcript  work    
+# Scheduler.mpf     scheduler.sv  vsim.wlf            
+do scheduler.do
+# Compile of scheduler.sv was successful.
+# vsim -gui work.scheduler -t ns 
+# Start time: 21:02:32 on Oct 12,2022
+# Loading sv_std.std
+# Loading work.scheduler
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.wave.interior.cs.body.pw.wf
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: info  Hostname: IA4  ProcessID: 9748
+#           Attempting to use alternate WLF file "./wlftg2hsrs".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftg2hsrs
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# .main_pane.wave.interior.cs.body.pw.wf
+dir
+#  Volume in drive C is Windows-SSD
+#  Volume Serial Number is B858-3125
+# 
+#  Directory of C:\Scheduler
+# 
+# 12/10/2022  09:02 PM    <DIR>          .
+# 05/10/2022  02:34 PM                 2 Scheduler.cr.mti
+# 05/10/2022  02:30 PM             2,272 scheduler.do
+# 12/10/2022  09:02 PM            28,024 Scheduler.mpf
+# 05/10/2022  02:34 PM             2,224 scheduler.sv
+# 12/10/2022  09:02 PM             1,061 transcript
+# 05/10/2022  02:33 PM           851,968 vsim.wlf
+# 12/10/2022  09:02 PM                 0 wlftg2hsrs
+# 12/10/2022  09:02 PM    <DIR>          work
+#                7 File(s)        885,551 bytes
+#                2 Dir(s)  380,721,258,496 bytes free
+explorer .
+# child process exited abnormally

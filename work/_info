@@ -1,0 +1,35 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/IP_AXI_Lite_Slave
+vscheduler
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1665568951
+!i10b 1
+!s100 4mYZlH]?MeNY[_l2LheON0
+If6AAGlY3SUfR[8^VP`clf0
+S1
+dC:/Scheduler
+w1664940847
+8C:/Scheduler/scheduler.sv
+FC:/Scheduler/scheduler.sv
+!i122 55
+L0 1 91
+VDg1SIo80bB@j0V0VzS_@n1
+OV;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1665568951.000000
+!s107 C:/Scheduler/scheduler.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Scheduler/scheduler.sv|
+!i113 1
+o-work work -sv
+tCvgOpt 0
